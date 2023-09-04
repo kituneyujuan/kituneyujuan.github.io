@@ -1,0 +1,13 @@
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: "PaperMod"
+paginate: 5
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+  disableSpecial1stPost: true
